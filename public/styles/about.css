@@ -1,0 +1,25 @@
+h1 {
+    background: -webkit-linear-gradient(white, powderblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+p {
+    background: -webkit-linear-gradient(white, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 19px;
+}
+#photo {
+    border-radius: 100%;
+    width: 50%;
+    position: relative;
+    left: 400px;
+    border: 10px solid black;
+}
+
+html {
+    background-color: white;
+    background-image: -webkit-linear-gradient(65deg, #87CEEB 50%, #c2d6f6 50% );
+    min-height: 1000px;
+    font-family: "helvetica neue";
+  }
